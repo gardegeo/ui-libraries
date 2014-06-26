@@ -1,0 +1,14 @@
+{
+    "name": "phalconeye/ui-libraries",
+    "type": "phalconeye-ui-library",
+    "description" : "PhalconEye UI (JS/CSS) Libraries",
+    "keywords" : [ "phalcon", "phalconeye", "ui", "js", "css", "libraries" ],
+    "homepage" : "http://phalconeye.com",
+    "license" : "BSD-3-Clause",
+    "require" : {
+        "php" : ">=5.4.20"
+    },
+    "extra": {
+        "name": "phalconeye"
+    }
+}
